@@ -6,7 +6,7 @@
 
 ## 🚀 Características Principales
 
-* [cite_start]**Multiespecialidad**: Organización de contenidos por ramas médicas como Dermatología [cite: 1, 2, 3] y Pediatría.
+* **Multiespecialidad**: Organización de contenidos por ramas médicas como Dermatología y Pediatría.
 * **Interfaz Sanitaria**: Diseño basado en colores verdes y blancos que evocan el entorno hospitalario.
 * **Corrección Instantánea**: Sistema que valida las respuestas al finalizar el test, señalando aciertos en verde y errores en rojo.
 * **Feedback de Calificación**: Cálculo automático de la nota sobre 10 al completar todas las preguntas.
@@ -30,9 +30,9 @@
 La aplicación cuenta actualmente con tests sobre:
 
 ### 🧴 Dermatología
-1.  [cite_start]**Generalidades**: Capas de la piel, queratinocitos y melanocitos[cite: 1, 4, 7].
-2.  [cite_start]**Exploración Física**: Signos clínicos como Nikolsky o Auspitz, y técnicas como la diascopia[cite: 45, 47, 49].
-3.  [cite_start]**Lesiones Elementales**: Máculas, pápulas, vesículas y procesos como la liquenificación[cite: 67, 77, 84, 94].
+1.  **Generalidades**: Capas de la piel, queratinocitos y melanocitos.
+2.  **Exploración Física**: Signos clínicos como Nikolsky o Auspitz, y técnicas como la diascopia.
+3.  **Lesiones Elementales**: Máculas, pápulas, vesículas y procesos como la liquenificación.
 
 ### 👶 Pediatría
 1.  **Conceptos Básicos**: Fundamentos de la atención infantil.
@@ -47,7 +47,7 @@ Si deseas ejecutar **MediTest** en tu propia máquina:
 
 1.  Clona el repositorio:
     ```bash
-    git clone [https://github.com/TU_USUARIO/meditest.git](https://github.com/TU_USUARIO/meditest.git)
+    git clone [https://github.com/prendess/meditest.git](https://github.com/prendess/meditest.git)
     ```
 2.  Instala las dependencias:
     ```bash
