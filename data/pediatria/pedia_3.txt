@@ -1,0 +1,89 @@
+1. ¿Qué sistema de puntuación clínica se utiliza para valorar la gravedad del distrés respiratorio en el neonato?
+Apgar.
+{Test de Silverman.}
+Puntuación de Bishop.
+Escala de Glasgow modificada.
+
+2. En el test de Silverman, ¿cuál de los siguientes hallazgos puntuaría con 2 (el valor más patológico)?
+Aleteo nasal leve.
+Tiraje intercostal visible pero poco intenso.
+{Quejido audible sin fonendoscopio y continuo.}
+Disociación toraco-abdominal leve.
+
+3. ¿Cuál es la causa fisiopatológica principal de la Enfermedad de Membrana Hialina (EMH)?
+Retraso en la reabsorción del líquido pulmonar.
+Aspiración de líquido amniótico contaminado.
+{Déficit de surfactante pulmonar por inmadurez de neumocitos tipo II.}
+Obstrucción por mecanismo valvular de la vía aérea.
+
+4. ¿Cuál es el patrón radiológico característico del Estadio I de la Enfermedad de Membrana Hialina?
+{Patrón retículo granular fino y homogéneo, en vidrio esmerilado.}
+Presencia de broncograma aéreo que sobrepasa la silueta cardiaca.
+Opacificación alveolar difusa con pérdida de límites.
+Pulmón blanco total con ausencia de silueta cardiaca.
+
+5. ¿Qué gasometría es típica encontrar en un neonato con Enfermedad de Membrana Hialina grave?
+Alcalosis respiratoria con hipoxemia.
+{Acidosis respiratoria con hipoxemia e hipercapnia.}
+Acidosis metabólica pura con exceso de bases normal.
+Alcalosis metabólica compensada.
+
+6. ¿Cuál es el tratamiento de elección para la Enfermedad de Membrana Hialina?
+Antibioterapia de amplio espectro y diuréticos.
+{Soporte respiratorio y administración de surfactante exógeno.}
+Corticoides administrados directamente al neonato en la primera semana.
+Lavados intratraqueales con suero salino.
+
+7. ¿Cuál es la causa más frecuente de distrés respiratorio pulmonar en el recién nacido?
+Enfermedad de membrana hialina.
+Síndrome de aspiración meconial.
+{Taquipnea transitoria del recién nacido (pulmón húmedo).}
+Neumonía neonatal por Estreptococo del grupo B.
+
+8. ¿En qué tipo de pacientes es más característica la aparición de la Taquipnea Transitoria del Recién Nacido?
+Grandes prematuros de menos de 28 semanas.
+{Neonatos a término nacidos por cesárea o parto vaginal muy rápido.}
+Post-términos de 42 semanas con sufrimiento fetal.
+Neonatos con malformaciones adenomatoideas quísticas.
+
+9. ¿Cuál es la evolución clínica habitual de la Taquipnea Transitoria del Recién Nacido?
+Precisa ventilación mecánica invasiva prolongada.
+Suele derivar en una displasia broncopulmonar crónica.
+{Desaparece habitualmente en las primeras 24-48 horas de vida.}
+Requiere tratamiento con surfactante de origen porcino.
+
+10. ¿Qué hallazgo es característico en la radiografía de tórax de un Síndrome de Aspiración Meconial?
+Líneas A finas y paralelas (patrón normal).
+{Zonas de atelectasia (colapsadas) combinadas con zonas hiperaireadas.}
+Pulmón blanco homogéneo con broncograma aéreo.
+Cisuritis y derrame pleural bilateral masivo.
+
+11. ¿Cuál es la complicación más grave y frecuente del Síndrome de Aspiración Meconial debido a la hipoxemia refractaria?
+{Hipertensión pulmonar persistente neonatal.}
+Enfisema intersticial crónico.
+Ductus arterioso persistente.
+Retinopatía del prematuro.
+
+12. ¿Qué signo radiológico define al Neumomediastino en el neonato?
+Silueta cardiaca desplazada hacia la derecha.
+{Signo "en alas de ángel" por elevación de las alas del timo.}
+Broncograma aéreo muy marcado.
+Presencia de aire negro fuera de la pleura.
+
+13. ¿Cómo se define la Displasia Broncopulmonar del prematuro?
+Necesidad de oxígeno a las 24 horas de vida.
+Infección pulmonar persistente por E. coli.
+{Necesidad de oxígeno suplementario a los 28 días de vida con Rx patológica.}
+Déficit congénito de producción de surfactante.
+
+14. ¿Cuál de las siguientes medidas es fundamental para prevenir la EMH y la Displasia Broncopulmonar?
+Administración de vitamina A al nacimiento.
+{Administración de corticoides antenatales a la madre.}
+Uso profiláctico de óxido nítrico en el paritorio.
+Restricción absoluta de líquidos durante el primer mes.
+
+15. ¿Qué microorganismos son los agentes más habituales de la infección pulmonar neonatal de vía ascendente?
+Virus Sincitial Respiratorio y Adenovirus.
+{Estreptococo del grupo B (EGB), E. coli y Listeria.}
+Staphylococcus aureus y Pseudomona.
+Mycoplasma pneumoniae y Chlamydia.

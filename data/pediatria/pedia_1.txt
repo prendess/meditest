@@ -1,0 +1,89 @@
+1. ¿Cuándo se realiza el test de Apgar para valorar el estado inicial del recién nacido tras el parto?
+A las 24 y 48 horas de vida.
+{Al minuto y a los 5 minutos de vida tras el parto.}
+A los 10 y 30 minutos de vida.
+Inmediatamente antes del clampaje del cordón umbilical.
+
+2. ¿Cuáles son los cinco ítems que valora el test de Apgar para dar una puntuación entre 0 y 10?
+Frecuencia cardiaca, temperatura, tono muscular, llanto y color.
+Presión arterial, respiración, reflejos, peso y color.
+{Frecuencia cardiaca, respiración, tono muscular, respuesta a estímulos y color.}
+Frecuencia cardiaca, respiración, saturación de oxígeno, tono muscular y color.
+
+3. ¿Qué método profiláctico se debe administrar al recién nacido para evitar la enfermedad hemorrágica?
+Una dosis de 1 mg de Vitamina D intramuscular.
+Transfusión profiláctica de plasma fresco.
+{1 mg de vitamina K intramuscular o tres dosis de 2 mg vía oral.}
+Administración de hierro profiláctico desde el primer día.
+
+4. Durante las primeras 48-72h se coge una muestra de sangre capilar a modo de cribado neonatal. ¿Cuál es la metabolopatía genética más común que se busca descartar?
+Fibrosis quística del páncreas.
+Fenilcetonuria.
+Enfermedad de las membranas hialinas.
+{El hipotiroidismo congénito.}
+
+5. Antes del alta hospitalaria se revisan varios parámetros de normalidad. ¿Qué pérdida de peso nos resultaría preocupante en el neonato?
+Una pérdida de peso > 2%.
+Una pérdida de peso > 5%.
+{Una pérdida de peso > 10%.}
+Una pérdida de peso > 15%.
+
+6. Según la clasificación de los recién nacidos, ¿cuándo se considera que un bebé es pretérmino?
+Cuando nace con < 34 semanas de gestación.
+Cuando nace con < 35 semanas de gestación.
+{Cuando nace con < 37 semanas de gestación.}
+Cuando nace con < 40 semanas de gestación.
+
+7. En la exploración general de la cabeza del recién nacido, ¿cómo se denomina al edema extraperióstico o tumor del parto?
+Cefalohematoma.
+Craneosinostosis.
+Mamelón preauricular.
+{"Caput sucedaneum".}
+
+8. Al examinar la piel del recién nacido, es común encontrar una mancha color pizarra en la zona espalda-lumbar. ¿Cómo se conoce este hallazgo?
+Eritema fisiológico.
+Angioma plano o nevus flameus.
+{Mancha mongólica o de Baltz.}
+Exantema toxo-alérgico.
+
+9. ¿Cuál de las siguientes características corresponde al funcionamiento cardiorrespiratorio fisiológico de un recién nacido?
+Presentan una frecuencia respiratoria muy lenta, en torno a 15 rpm.
+{Tienen una taquicardia fisiológica de 130-150 lpm y una frecuencia respiratoria de 25-60 rpm.}
+No toleran bien la hipoxia debido a la baja concentración de hemoglobina fetal.
+Su ritmo cardiaco siempre presenta soplos patológicos de alta intensidad.
+
+10. El recién nacido presenta numerosos reflejos nerviosos inmaduros. ¿En qué consiste el reflejo de Babinski?
+Abre los brazos bruscamente ante un estímulo.
+Al tocarle la mejilla, gira la cabeza hacia ese lado y abre la boca.
+Cierra la mano cuando algo le toca la palma.
+{Al tocarle la planta del pie los dedos se extienden hacia arriba.}
+
+11. ¿Qué problema respiratorio puede generar un recién nacido prematuro debido a la inmadurez de su sistema alveolar y al déficit de surfactante?
+Fibrosis quística pulmonar.
+Hipertrofia de adenoides severa.
+Asma bronquial crónica.
+{Enfermedad de membranas hialinas.}
+
+12. El ductus arterioso persistente es una patología cardiaca en el prematuro. ¿Cómo debe abordarse para su cierre?
+Exclusivamente con oxigenoterapia de alto flujo.
+Administrando antibióticos de amplio espectro.
+{Ayudado por fármacos (ibuprofeno, paracetamol) o cirugía.}
+Se cierra siempre de forma espontánea sin intervención antes de los 6 meses.
+
+13. Los recién nacidos prematuros pueden presentar anemia por diversas razones. ¿Cuál de las siguientes NO es una causa habitual de anemia en el prematuro?
+El crecimiento corporal rápido.
+Una vida media corta y fragilidad de los glóbulos rojos.
+La iatrogenia por realizar muchas analíticas innecesarias.
+{Un exceso en la producción intrínseca de eritropoyetina.}
+
+14. En relación con las complicaciones neurológicas, ¿qué describe el grado III de la hemorragia periventricular del prematuro diagnosticada por ecografía?
+Sangre en la matriz germinal.
+Sangre en ventrículo sin dilatación.
+Sangre en ventrículo dilatado con hemorragia parenquimatosa aguda.
+{Sangre en ventrículo dilatado.}
+
+15. Los prematuros tienen riesgo de desarrollar enterocolitis necrotizante o sepsis neonatal. ¿Qué medida ha demostrado ayudar en su prevención?
+El inicio exclusivo de fórmulas artificiales hipercalóricas.
+{La lactancia materna.}
+El clampaje temprano del cordón umbilical.
+La profilaxis universal con corticoides tópicos.
