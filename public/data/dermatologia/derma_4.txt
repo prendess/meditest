@@ -1,0 +1,89 @@
+1. ¿Cuál es la base del estudio microscópico en dermatopatología?
+El análisis serológico de anticuerpos cutáneos.
+La exploración clínica macroscópica de las lesiones.
+{Las lesiones elementales, que requieren de una biopsia.}
+La dermoscopia digital de alta resolución.
+
+2. ¿Qué porcentaje de las células epidérmicas representan los queratinocitos?
+El 50%.
+El 60%.
+El 70%.
+{El 80%.}
+
+3. ¿Qué neoplasia maligna originan las células de Merkel?
+El melanoma cutáneo.
+El carcinoma basocelular.
+El linfoma cutáneo tipo T.
+{El carcinoma de células de Merkel.}
+
+4. ¿Cómo se denomina la eliminación visible y patológica de la capa córnea?
+Acantolisis.
+Paraqueratosis.
+{Escama.}
+Disqueratosis.
+
+5. ¿Qué alteración estructural epidérmica consiste en el aumento del grosor de la epidermis con crestas que descienden al mismo nivel?
+Acantosis irregular.
+Papilomatosis.
+Hiperqueratosis.
+{Acantosis regular.}
+
+6. ¿En qué enfermedad es característica la presencia de microabscesos de Munro en la capa córnea?
+Eccema alérgico de contacto.
+Liquen plano.
+{Psoriasis.}
+Pénfigo vulgar.
+
+7. ¿Qué alteración celular epidérmica es la lesión típica de los eccemas?
+Acantolisis.
+Disqueratosis.
+Degeneración balonizante.
+{Espongiosis.}
+
+8. ¿En qué patología ocurre fundamentalmente la degeneración balonizante de las células epidérmicas?
+En la psoriasis.
+En el pénfigo foliáceo.
+En el liquen plano.
+{En las infecciones por herpes.}
+
+9. ¿Cómo se diferencia la anaplasia del pleomorfismo en histología cutánea?
+La anaplasia solo altera el tamaño nuclear, mientras que el pleomorfismo afecta también a la forma.
+Ambos términos son sinónimos en dermatopatología.
+{La anaplasia presenta núcleos atípicos en tamaño, forma y tinción, mientras que el pleomorfismo solo altera tamaño y forma.}
+El pleomorfismo implica mayor malignidad que la anaplasia.
+
+10. ¿Qué presencia anómala epidérmica es típica del linfoma cutáneo tipo T?
+Exoserosis.
+Microabscesos de Munro.
+Exocitosis.
+{Epidermotropismo.}
+
+11. ¿Qué tinción permite visualizar las alteraciones de la membrana basal en la unión dermo-epidérmica?
+Hematoxilina-eosina.
+Azul alcián.
+Plata metenamina.
+{Tinción de PAS.}
+
+12. ¿Qué patrón de reacción tisular se caracteriza por un infiltrado linfocitario superficial en banda que provoca daño en la capa basal?
+Patrón psoriasiforme.
+Patrón espongiótico.
+Patrón vesico-ampolloso.
+{Patrón de reacción liquenoide.}
+
+13. ¿Qué marcador inmunohistoquímico es útil para identificar el dermatofibrosarcoma?
+S-100.
+CD3.
+Citoqueratinas.
+{CD34.}
+
+14. ¿Qué técnica se emplea de forma más útil en enfermedades ampollosas autoinmunes, vasculitis y lupus eritematoso sistémico?
+Histoquímica con tinción de PAS.
+Inmunohistoquímica con citoqueratinas.
+{Inmunofluorescencia directa e indirecta.}
+Tinción de hematoxilina-eosina estándar.
+
+15. ¿Cuál de los siguientes es un patrón de reacción vascular cutánea?
+Patrón liquenoide.
+Patrón granulomatoso.
+Patrón psoriasiforme.
+{Vasculitis.}

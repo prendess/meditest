@@ -1,0 +1,89 @@
+1. ¿Cuál de los siguientes NO es un indicador de asfixia feto-neonatal?
+Acidosis metabólica con pH fetal bajo.
+Líquido amniótico meconial.
+Puntuación baja en el test de APGAR.
+{Policitemia fetal con hematocrito elevado.}
+
+2. ¿Qué valor de pH de la calota fetal durante el registro tococardiográfico obliga a actuar con especial cuidado por riesgo de hipoxia?
+pH < 7,35.
+pH < 7,30.
+pH < 7,25.
+{pH < 7,20.}
+
+3. ¿Cuál de las siguientes es una causa materna de riesgo inadecuado de la placenta que puede producir hipoxia fetal?
+Inserción velamentosa del cordón.
+Desprendimiento prematuro de placenta.
+Anemia hemolítica fetal.
+{Hipotensión materna por hemorragia o anestesia regional.}
+
+4. ¿Cuándo es esperable que un neonato sano alcance una saturación de oxígeno del 90-97%?
+Al minuto de nacer.
+A los 3 minutos de nacer.
+A los 5 minutos de nacer.
+{A los 10 minutos de nacer.}
+
+5. ¿Cuál es el fármaco de elección en la reanimación neonatal avanzada cuando no existe vía venosa disponible?
+Atropina intratraqueal.
+Bicarbonato sódico iv.
+Dopamina intravenosa.
+{Adrenalina iv o intratraqueal.}
+
+6. ¿Cuál es la secuela neurológica más frecuente y característica de la hipoxia perinatal?
+Retraso mental aislado.
+Epilepsia refractaria.
+Alteraciones auditivas y visuales.
+{Parálisis cerebral infantil (PCI) con alteraciones del tono muscular y retraso motor.}
+
+7. ¿Qué escala se utiliza para clasificar la gravedad de la encefalopatía hipóxico-isquémica neonatal en leve, moderada y grave?
+Escala de Glasgow.
+Escala de Ballard.
+Escala de APGAR.
+{Escala de Sarnat.}
+
+8. ¿Qué patrón electroencefalográfico indica afectación cerebral grave con mal pronóstico neurológico en la EHI?
+Trazado de baja amplitud continuo.
+Trazado con ondas lentas delta difusas.
+EEG integrado por amplitud en rango normal.
+{Patrón Burst-Suppression (brote-supresión).}
+
+9. ¿Cuál es la prueba de neuroimagen de elección para la EHI neonatal, aunque no se pueda realizar de urgencia?
+TC craneal con contraste.
+Ecografía craneal urgente.
+Doppler transcraneal.
+{Resonancia magnética (RM), por ser la que mejor visualiza las alteraciones sin irradiar.}
+
+10. ¿Cuál es el tratamiento de elección de las crisis convulsivas en la encefalopatía hipóxico-isquémica neonatal?
+Levetiracetam oral.
+Midazolam intranasal.
+Diazepam rectal.
+{Fenobarbital intravenoso.}
+
+11. ¿En qué tipo de encefalopatía hipóxico-isquémica está indicada la hipotermia moderada activa?
+Solo en la encefalopatía leve, para prevenir su progresión.
+En cualquier grado de encefalopatía si se inicia antes de las 12h.
+En la encefalopatía leve y moderada indistintamente.
+{En la encefalopatía moderada o severa, iniciada antes de las 6h de vida y durante 72h.}
+
+12. ¿Cuántos grados debe reducirse la temperatura corporal en la hipotermia moderada activa para la EHI?
+1-2 ºC.
+5-6 ºC.
+Hasta los 32 ºC de temperatura central.
+{3-4 ºC mediante enfriamiento corporal total o selectivo de la cabeza.}
+
+13. ¿Qué marcadores bioquímicos en sangre, LCR u orina orientan hacia daño estructural en células neurales en la hipoxia perinatal?
+Troponina, mioglobina y CPK-MM.
+IL-6, PCR y procalcitonina.
+Ammonio, láctico y aminoácidos.
+{Enolasa neuronal, proteína S-100 y creatincinasa (CPK-BB).}
+
+14. ¿Cuál es la imagen inicial característica en la ecografía craneal en la encefalopatía hipóxico-isquémica?
+Hemorragia periventricular con dilatación ventricular.
+Hipodensidad de la sustancia gris cortical con hidrocefalia.
+Atrofia córtico-subcortical precoz con encefalomalacia.
+{Hiperecogenicidad de la sustancia blanca y colapso ventricular por edema.}
+
+15. ¿Cuál de las siguientes situaciones clínicas debe incluirse en el diagnóstico diferencial de la encefalopatía hipóxico-isquémica neonatal?
+Sepsis neonatal vertical por EGB.
+Enterocolitis necrotizante estadio III.
+Persistencia del ductus arterioso con repercusión hemodinámica.
+{Encefalopatía metabólica de debut precoz, especialmente si hay consanguinidad familiar y periodo libre de síntomas.}

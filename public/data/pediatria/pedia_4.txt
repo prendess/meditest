@@ -1,0 +1,89 @@
+1. ¿Cuál es la única inmunoglobulina que atraviesa la placenta y con la que nace el neonato?
+IgA secretora.
+IgM materna.
+IgE materna.
+{IgG materna.}
+
+2. ¿Cuál es la vía de infección neonatal vertical más frecuente?
+La vía transplacentaria.
+La vía hematógena.
+La vía linfática.
+{La vía ascendente desde el canal genital materno.}
+
+3. ¿Cuál es el patógeno Gram positivo más frecuente en la sepsis neonatal vertical?
+Listeria monocytogenes.
+Staphylococcus aureus.
+Enterococcus faecalis.
+{Streptococcus agalactiae (EGB).}
+
+4. ¿Qué marcador de infección es especialmente útil para el diagnóstico PRECOZ de sepsis neonatal vertical por su rápida elevación en la primera hora?
+PCR.
+Procalcitonina.
+Hemocultivo.
+{IL-6.}
+
+5. ¿Para qué sirve principalmente la PCR como marcador de infección en la sepsis neonatal?
+Para el diagnóstico precoz en las primeras horas del cuadro.
+Para diferenciar sepsis vertical de nosocomial.
+Para confirmar el diagnóstico definitivo de bacteriemia.
+{Para el seguimiento y la retirada progresiva del tratamiento antibiótico.}
+
+6. ¿Por qué la procalcitonina (PCT) tiene poco valor en las sepsis neonatales VERTICALES?
+Porque se eleva demasiado tarde, a partir de las 48h.
+Porque solo se sintetiza en las células C del tiroides del neonato.
+Porque sus valores son indetectables en el periodo neonatal precoz.
+{Porque se eleva también ante distrés, prematuridad y otras patologías en los primeros días de vida.}
+
+7. ¿Cuál es el tratamiento antibiótico empírico inicial de la sepsis neonatal vertical?
+Vancomicina y amikacina.
+Ampicilina y cefotaxima.
+Penicilina G y gentamicina.
+{Ampicilina y gentamicina.}
+
+8. ¿Por qué se sustituye la gentamicina por cefotaxima ante sospecha de meningitis neonatal?
+Porque la gentamicina es ototóxica a las dosis necesarias para tratar la meningitis.
+Porque la cefotaxima cubre mejor los gérmenes Gram positivos como el EGB.
+Porque la gentamicina está contraindicada en neonatos pretérmino.
+{Porque la cefotaxima atraviesa con mayor facilidad la barrera hematoencefálica (BHE).}
+
+9. ¿En qué semana gestacional se realiza el cribado vaginal y rectal para EGB a las gestantes?
+En la semana 28-30.
+En la semana 32-34.
+En la semana 38-40.
+{En la semana 35-37, con caducidad de hasta 5 semanas.}
+
+10. ¿Cuál es el patógeno Gram positivo más frecuente en la sepsis nosocomial neonatal?
+Streptococcus agalactiae.
+Staphylococcus aureus.
+Enterococcus faecalis.
+{Staphylococcus epidermidis, causante de sepsis por catéter.}
+
+11. ¿Cuál es el tratamiento antibiótico empírico de la sepsis nosocomial neonatal?
+Ampicilina y gentamicina.
+Penicilina G y cefotaxima.
+Metronidazol y meropenem.
+{Vancomicina (Gram +) y amikacina (Gram -).}
+
+12. ¿Cuál es la medida más eficaz en la prevención de la enterocolitis necrotizante?
+La administración profiláctica de antifúngicos.
+El uso precoz de antibioterapia de amplio espectro.
+La restricción de la alimentación enteral en los primeros días.
+{La lactancia materna.}
+
+13. ¿Qué estadio de Bell en la enterocolitis necrotizante incluye signos radiológicos con enfermedad definida?
+Estadio I: sospecha.
+Estadio III: enfermedad avanzada con shock séptico.
+Estadio IV: complicaciones sistémicas.
+{Estadio II: enfermedad definida con signos radiológicos.}
+
+14. ¿Cuál es la cepa más frecuente en la candidiasis neonatal sistémica y cuál es su tratamiento de primera línea?
+Candida tropicalis, tratada con fluconazol durante 14 días.
+Candida glabrata, tratada con caspofungina durante 28 días.
+Candida parapsilosis, tratada con fluconazol durante 21 días.
+{Candida albicans, tratada con anfotericina B liposomal durante 21 días.}
+
+15. ¿En cuál de los siguientes casos NO está indicada la profilaxis antibiótica intraparto para EGB?
+Gestante con urinocultivo positivo a EGB durante el embarazo.
+Gestante con cultivo desconocido y fiebre intraparto mayor de 38 ºC.
+Gestante con un hijo previo que tuvo sepsis por EGB.
+{Cesárea programada con cultivo positivo a EGB, sin inicio de parto y con membranas íntegras.}

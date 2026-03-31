@@ -1,0 +1,89 @@
+1. ¿Qué porcentaje de la bilirrubina se genera a través del catabolismo del grupo hemo de la hemoglobina de los hematíes?
+50%.
+60%.
+70%.
+{80%.}
+
+2. ¿Por qué es más peligrosa la acumulación de bilirrubina NO conjugada que la conjugada?
+Porque se elimina más lentamente por vía renal.
+Porque produce mayor hemólisis en los hematíes circulantes.
+Porque interfiere con la conjugación hepática de otros fármacos.
+{Porque es liposoluble, puede traspasar la BHE y acumularse en los ganglios de la base produciendo encefalopatía.}
+
+3. ¿Qué escala clínica correlaciona los territorios cutáneos amarillentos con los niveles de bilirrubina en sangre?
+Escala de Sarnat.
+Escala de Ballard.
+Escala de APGAR.
+{Escala de Kramer.}
+
+4. ¿Cuál de los siguientes hallazgos indica que una ictericia neonatal es PATOLÓGICA y no fisiológica?
+Inicio al segundo día de vida con bilirrubina de 10 mg/dl.
+Bilirrubina total de 12 mg/dl al tercer día de vida.
+Duración de 10 días en un neonato con lactancia materna.
+{Inicio en las primeras 24 horas de vida.}
+
+5. ¿Cuál es el tratamiento de primera línea para la ictericia neonatal hiperbilirrubinémica?
+Exanguinotransfusión urgente.
+Fenobarbital oral.
+Suspensión de la lactancia materna.
+{Fototerapia con lámparas LED o mantas de fibra óptica.}
+
+6. ¿A partir de qué cifra de bilirrubina indirecta se empieza a tener especial preocupación por el desarrollo de kernicterus?
+10 mg/dl.
+15 mg/dl.
+18 mg/dl.
+{20 mg/dl.}
+
+7. ¿Cuál es la manifestación clínica característica en la segunda fase del kernicterus agudo (mediados de la primera semana)?
+Succión deficiente, estupor e hipotonía.
+Hipertonía generalizada y coreoatetosis.
+Convulsiones y fiebre alta.
+{Hipertonía de los extensores, opistótonos y retrocolis.}
+
+8. ¿Cuál es la causa más frecuente de enfermedad hemolítica del recién nacido (EHRN)?
+Incompatibilidad por el sistema Rhesus D.
+Incompatibilidad por antígenos Kell o Duffy.
+Incompatibilidad ABO por madre A con hijo B.
+{Incompatibilidad ABO, generalmente madre O con hijo A o B.}
+
+9. ¿Por qué la incompatibilidad ABO puede producirse en primigestas, a diferencia de la Rh?
+Porque la IgM producida frente al grupo ABO atraviesa más fácilmente la placenta.
+Porque el antígeno D del sistema Rh no está presente en el primer embarazo.
+Porque el feto A o B produce sus propios antígenos desde el primer trimestre.
+{Porque la madre puede sensibilizarse previamente contra Ag eritrocitarios del grupo A presentes en alimentos y gérmenes Gram negativos.}
+
+10. En la incompatibilidad ABO, ¿cuál es el resultado esperado del test de Coombs directo en el recién nacido?
+Siempre negativo.
+Siempre positivo.
+Solo positivo si hay hidrops fetal.
+{Positivo o negativo (puede ser negativo, a diferencia de la Rh que siempre es positivo).}
+
+11. ¿Cuál es la diferencia más relevante entre la EHRN por incompatibilidad Rh y por ABO respecto al hidrops fetal?
+El hidrops es excepcional en ambos sistemas.
+En ABO el hidrops es más frecuente que en Rh.
+En ambos el hidrops es frecuente si no se hace profilaxis.
+{El hidrops es frecuente en la incompatibilidad Rh y excepcional en la ABO.}
+
+12. ¿Cuál es la triada clínica característica que hace sospechar una atresia de vías biliares en un lactante mayor de 2 semanas?
+Ictericia, hepatomegalia y fiebre.
+Acolia, hipotonía e hipoglucemia.
+Vómitos biliosos, distensión abdominal e ictericia.
+{Ictericia, heces acólicas y coluria.}
+
+13. ¿Cuál es el tratamiento definitivo de la atresia de vías biliares?
+La porto-entero-anastomosis de Kasai en el primer mes de vida.
+El tratamiento con ácido ursodesoxicólico a largo plazo.
+La administración de vitaminas liposolubles y soporte nutricional.
+{El trasplante hepático, con una supervivencia del 95% a los 5 años.}
+
+14. ¿Qué síndrome genético produce ictericia, prurito y xantomas por escasez o estrechamiento de conductos biliares, asociado a mutaciones en JAG1 y NOTCH2?
+Síndrome de Crigler-Najjar tipo I.
+Síndrome de Dubin-Johnson.
+Síndrome de Gilbert.
+{Síndrome de Alagille.}
+
+15. ¿Qué mecanismo explica la ictericia por lactancia materna (más allá de la primera semana) en un neonato con ingesta adecuada?
+Déficit transitorio de albúmina sérica que reduce el transporte de bilirrubina al hígado.
+Aumento de la circulación enterohepática por flora intestinal inmadura del lactante.
+Hemólisis leve provocada por anticuerpos presentes en la leche materna.
+{Un factor de la leche materna que inhibe la conjugación de la bilirrubina en el hepatocito.}
