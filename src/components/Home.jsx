@@ -107,15 +107,14 @@ export default function Home() {
                             
                             <Collapse 
                                 in={isOpen} 
-                                animateOpacity
                                 unmountOnExit
                                 transition={{
                                     enter: { 
-                                        duration: 0.4, 
+                                        duration: 0.25,
                                         ease: "easeOut" 
                                     },
                                     exit: { 
-                                        duration: 0.3, 
+                                        duration: 0.2, 
                                         ease: "easeIn" 
                                     }
                                 }}
@@ -133,19 +132,22 @@ export default function Home() {
                                                 px={5}
                                                 borderRadius="2xl"
                                                 borderWidth="2px"
+                                                whiteSpace="normal"
+                                                textAlign="left"
                                                 _hover={{ 
                                                     bg: 'brand.100', 
                                                     borderColor: 'brand.500',
                                                     transform: 'translateY(-3px)', 
                                                     shadow: 'md' 
                                                 }}
-                                                transition="all 0.2s cubic-bezier(.08,.52,.52,1)"
+                                                transition="all 0.2s"
                                                 onClick={() => navigate(`/test/${subject.id}/${test.id}`)}
                                                 justifyContent="flex-start"
+                                                width="full"
                                             >
-                                                <Stack align="flex-start" spacing={1} textAlign="left">
+                                                <Stack align="flex-start" spacing={1} width="full">
                                                     <Text fontWeight="bold" fontSize="lg" color="brand.800">Tema {test.id}</Text>
-                                                    <Text fontSize="sm" fontWeight="medium" color="gray.700" noOfLines={1}>
+                                                    <Text fontSize="sm" fontWeight="medium" color="gray.700" lineHeight="tall">
                                                         {test.name}
                                                     </Text>
                                                 </Stack>
