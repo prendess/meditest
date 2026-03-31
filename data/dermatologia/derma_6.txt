@@ -1,0 +1,89 @@
+1. ¿Qué terapias físicas inducen una necrosis tisular SELECTIVA en dermatología?
+Crioterapia y electroterapia.
+Radioterapia y crioterapia.
+Electroterapia y radioterapia.
+{Laserterapia y terapia fotodinámica.}
+
+2. ¿A qué temperatura trabaja el nitrógeno líquido utilizado en crioterapia?
+A -78 °C.
+A -100 °C.
+A -150 °C.
+{A -196 °C.}
+
+3. ¿Por qué puede quedar una hipocromía residual tras la crioterapia?
+Porque el frío destruye selectivamente los queratinocitos basales.
+Porque el nitrógeno líquido oxida la melanina superficial.
+Porque la inflamación post-criogénica inhibe la síntesis de queratina.
+{Porque los melanocitos son más sensibles al frío que los queratinocitos.}
+
+4. ¿Cuál es la principal limitación de la crioterapia frente a otras técnicas como la electrocirugía?
+Su elevado coste y baja disponibilidad en consulta.
+La necesidad de anestesia local previa.
+Su escasa eficacia en verrugas víricas.
+{No permite el estudio histológico, por lo que solo se usa en lesiones clínicamente claras o con biopsia previa.}
+
+5. ¿Qué modalidad de aplicación en crioterapia resulta más eficaz y con mayor índice de necrosis?
+La aplicación continua de 10-15 segundos en sesión única.
+La aplicación en cuadrantes para lesiones grandes.
+La nieve carbónica en ciclo único prolongado.
+{La aplicación intermitente con varios ciclos consecutivos de congelación-descongelación.}
+
+6. ¿En qué situación está contraindicada la electrocirugía en las plantas de los pies?
+Cuando existe hiperqueratosis plantar severa.
+Cuando el paciente tiene antecedentes de psoriasis plantar.
+Cuando la lesión mide menos de 1 cm de diámetro.
+{Porque puede dejar una cicatriz dolorosa permanente.}
+
+7. ¿Qué precaución imprescindible debe tomarse antes de realizar una electrocirugía?
+Descartar alergia al anestésico local mediante prueba epicutánea.
+Confirmar que la lesión tiene diagnóstico anatomopatológico previo.
+Asegurarse de que el paciente no toma anticoagulantes.
+{Preguntar si el paciente es portador de marcapasos o desfibrilador, ya que pueden desprogramarse.}
+
+8. ¿Cuál es el efecto principal de la laserterapia en dermatología?
+La inducción de necrosis no selectiva mediante calor.
+La estimulación de la regeneración tisular por fotobiomodulación.
+La destrucción química de cromóforos dérmicos.
+{La fototermólisis selectiva, actuando sobre un único cromóforo sin dañar las estructuras adyacentes.}
+
+9. ¿Qué láser se utiliza específicamente para lesiones vasculares superficiales, malformaciones vasculares congénitas y cuperosis?
+Láser de CO2.
+Láser de neodimio-YAG.
+Láser de rubí.
+{Láser de colorante pulsado.}
+
+10. ¿Para qué cromóforo y aplicaciones se usan el láser de rubí, Alejandrita y diodos?
+Para el agua, en rejuvenecimiento cutáneo.
+Para la hemoglobina, en lesiones vasculares profundas.
+Para el colágeno, en tratamiento de cicatrices.
+{Para la melanina, en depilación y tratamiento de tatuajes negros.}
+
+11. ¿Cómo genera la necrosis selectiva la terapia fotodinámica?
+Mediante irradiación de alta energía que destruye todas las células de la lesión.
+A través de un fotosensibilizante sistémico que actúa sobre los queratinocitos.
+Combinando nitrógeno líquido con luz ultravioleta de banda estrecha.
+{Las células malignas captan mayor fotosensibilizante tópico y sufren mayor necrosis al exponerse a la luz.}
+
+12. ¿En qué se diferencia fundamentalmente la fototerapia de la terapia fotodinámica?
+La fototerapia usa luz láser, mientras que la fotodinámica usa lámparas UV convencionales.
+Ambas producen necrosis tisular, pero de diferente intensidad.
+La fototerapia actúa sobre cromóforos y la fotodinámica sobre receptores cutáneos.
+{La fototerapia produce antiinflamación, no necrosis tisular.}
+
+13. ¿Cuál de las siguientes bandas UV se emplea en monoterapia como primera línea en fototerapia, sin necesidad de fotosensibilizantes?
+UV-A, por su mayor penetración.
+UV-C, por su mayor energía.
+P+UVA, por su mayor eficacia documentada.
+{UV-B (290-315 nm), por provocar la mayoría de los efectos beneficiosos.}
+
+14. ¿En qué enfermedad cutánea es la fototerapia la primera línea de tratamiento en sus fases iniciales?
+Psoriasis vulgar en placas.
+Eccema atópico grave.
+Liquen plano extenso.
+{Linfoma T cutáneo (micosis fungoide).}
+
+15. ¿Para qué indicación se utilizan la ionoforesis y la toxina botulínica en dermatología física?
+Para el tratamiento de verrugas víricas resistentes a crioterapia.
+Para la rosácea y el eritema facial crónico.
+Para la hiperpigmentación postinflamatoria residual.
+{Para la hiperhidrosis de palmas y plantas.}
