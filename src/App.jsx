@@ -3,6 +3,7 @@ import { Box, Flex, Heading, Icon, Container, Link, Text, VStack } from '@chakra
 import { FaNotesMedical } from "react-icons/fa";
 import Home from './components/Home';
 import TestViewer from './components/TestViewer';
+import SubjectView from './components/SubjectView';
 
 const Header = () => (
     <Box 
@@ -53,6 +54,7 @@ function App() {
             <Container maxW="container.xl" py={{ base: 6, md: 10 }} px={{ base: 4, md: 8 }} position="relative" zIndex={1} flex="1">
                 <Routes>
                     <Route path="/" element={<Home />} />
+                    <Route path="/subject/:subjectId" element={<SubjectView />} />
                     <Route path="/test/:subject/:testId" element={<TestViewer />} />
                 </Routes>
             </Container>
