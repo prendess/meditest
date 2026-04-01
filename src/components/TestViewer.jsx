@@ -5,6 +5,7 @@ import {
     Card, CardHeader, CardBody, Progress, Alert, AlertIcon, AlertTitle, AlertDescription, Flex 
 } from '@chakra-ui/react';
 import { parseTestFile } from '../utils/parser';
+import { useAuth } from '../context/AuthContext';
 
 const subjectNames = {
     dermatologia: "Dermatología",
@@ -17,6 +18,7 @@ const filePrefixes = {
 };
 
 export default function TestViewer() {
+    const { updateScore } = useAuth();
     const { subject, testId } = useParams();
     const navigate = useNavigate();
     const toast = useToast();
@@ -54,17 +56,15 @@ export default function TestViewer() {
 
     const checkTest = () => {
         if (Object.keys(answers).length < questions.length) {
-            toast({
-                title: "Faltan preguntas",
-                description: `Debes responder las ${questions.length} preguntas. Has respondido ${Object.keys(answers).length}.`,
-                status: "warning",
-                duration: 4000,
-                isClosable: true,
-                position: "top",
-            });
             return;
         }
+        
         setIsSubmitted(true);
+
+        const numCorrectos = questions.reduce((acc, q, index) => acc + (answers[index] === q.correctIndex ? 1 : 0), 0);
+        const testKey = `${subject}_${testId}`;
+        
+        updateScore(testKey, numCorrectos).catch(err => console.error("Error guardando nota:", err));
     };
 
     const resetTest = () => {
